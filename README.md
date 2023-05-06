@@ -1,2 +1,2 @@
 # Hello-world
-My First repo
+printf("Hello World");
